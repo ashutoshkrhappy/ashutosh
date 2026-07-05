@@ -11,8 +11,6 @@ Email Me 👉 ✉️ **happy.ashutoshkumar@gmail.com** For Collaboration/Project
 - 😄 **Pronouns:** Ashutosh or Happy
 - ⚡ **Fun fact:** I love Tech and Tech loves me — from wiring circuits as an Electrical Engineer to optimizing processes in my MBA journey, and now exploring the future with Generative AI.
 
-# 💫 About Me:
-- 🦾 I’m currently working as an Electrical Engineer with 6+ years of experience across EPC, energy, mining, and airport logistics projects.  <br>- 🧑‍🤝‍🧑 I’m looking to collaborate on open-source projects in power systems, automation, and sustainable utility design.  <br>- 🤝 I’m looking for help with Advanced System studies (PSCAD, PSSE, Power factory) and integrating AI into engineering workflows.  <br>- 🌱 I’m currently learning Generative AI applications in operations while pursuing my MBA at IIT Patna.  <br>- 💬 Ask me about MV/LV system design, hazardous-area classification, electrical heat tracing, and BIM-based coordination.  <br>- ⚡ Fun fact: I love transforming complex electrical drawings into visual learning aids—whether it’s SLDs, 3D Navisworks models, or pictorial sketches.  <br>
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
